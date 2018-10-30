@@ -1,2 +1,2 @@
-
+FinchI/potential_field:FinchI/random_walk
 -DCATKIN_DEVEL_PREFIX=/home/ianaw/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ianaw/catkin_ws/install -G Unix Makefiles

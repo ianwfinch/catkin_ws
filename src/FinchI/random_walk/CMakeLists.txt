@@ -134,7 +134,7 @@ include
 ## With catkin_make all packages are built within a single CMake context
 ## The recommended prefix ensures that target names across packages don't collide
 # add_executable(${PROJECT_NAME}_node src/random_walk_node.cpp)
-add_executable(random_walk src/FinchI/random_walk.cpp)
+add_executable(random_walk src/random_walk.cpp)
 
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
